@@ -1,1 +1,1 @@
-Primer fichero en el primer repositorio de <juanantonio lozano moreno>
+Primer fichero en el primer repositorio de juanantonio lozano moreno
